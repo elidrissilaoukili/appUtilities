@@ -1,0 +1,2 @@
+httrack_x64-3.49.2.exe		-> download websites
+IDM.Trial.Reset.v1.0.0.zip	-> to reset idman downloader period time
